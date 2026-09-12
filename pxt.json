@@ -1,0 +1,27 @@
+{
+    "name": "GTA6",
+    "description": "ЭТУ ИГРУ ДЕЛАЛИ ОКОЛО 50 ЛЕТ!!! НУЖНЫ БЫЛЛИ МИЛЛИАРДЫ ДОЛЛАРОВ ЧТОБЫ ВОССОЗДАТЬ ЭТО!!! ЭТО ПРОДОЛЖЕНИЕ ЛЕГЕНДАРНОГО КАРЛА ДЖОНСОНА В СТАРЫЙ ГОРАРА РАЁН САШИА САНАН ДРЕС ГДЕ ВЫ БУДЕТЕ ЛОВИТЬ ПОКЕМОНОВ ",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.1.25",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
